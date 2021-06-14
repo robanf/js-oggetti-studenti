@@ -4,7 +4,7 @@ var studente={
     eta:"23"
 };
 
-console.logI("mio primo oggetto studente");
+console.log("mio primo oggetto studente");
 for(var x in studente){
 
     console.log(studente[x]);
